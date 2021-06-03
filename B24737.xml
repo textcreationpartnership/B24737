@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices and Council, a proclamation. Charles Porter, Tho: Coningesby. Whereas we have received divers complaints from most part of the countrey, that several officers and soldiers of Their Majesties army ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24737</idno><idno type="EEBO-CITATION">99886484</idno>
+  <idno type="VID">186708</idno>
+  <idno type="EEBO-PROQUEST">2264216030</idno>
+  
+            <idno type="STC">Wing I454</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[133]</idno>
+            <idno type="STC">ESTC R226073</idno>
+            <idno type="STC">ESTC R226118</idno>
+            <idno type="PROQUEST">ocm99886484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886484e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186708)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[133])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices and Council, a proclamation. Charles Porter, Tho: Coningesby. Whereas we have received divers complaints from most part of the countrey, that several officers and soldiers of Their Majesties army ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Took printer to the King and Queen at thier Majesties printing-house on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at the Council-Chamber in Dublin, the 6th day of February, 1690.".</note>
+                  <note>Date given according to Lady Day dating.</note>
+                  <note>Against plundering by the soldiery.--Steele.</note>
+                  <note>Steele notation: Arms 193. Complaints others 2) And Esta-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186708:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+                  <q xml:lang="frm">HO<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> SOIT <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>VI MAL Y <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>NS<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices AND COUNCIL, A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>THO: CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We have received divers Complaints from most part of the Countrey, that several Officers and Soldiers of Their Majesties Army (although they have been plentifully supply'd with Provisions for their Subsistance at the Charge of the several Counties) have Robbed, and daily do Robb and Plunder many of Their Majesties good and Lawfull Subjects of their Cattle, Corn, and other Goods; have destroyed Improvements, cut down Trees, and have exacted and Levied Money from some, and from others have taken Oxen and Horses out of Ploughs, whereby much Land lies waste and untill'd. The Kingdom in General is greatly Impoverished, Trade much decayed, Property Invaded, the King's Revenue extreamly impaired, and a Famine is like to ensue, un<g ref="char:EOLhyphen"/>less some present stop be put thereunto, which Actions are not only contrary to the known Laws and Statutes of this Kingdom, but expressly contra<g ref="char:EOLhyphen"/>ry to the Articles of War and Military Discipline, and highly Penal to the Offenders; All which Mischiefs have been occasioned by not observing former Rules &amp; Proclamations, made &amp; published for the prevention and regulation of such Disorders. We therefore taking into Our Serious Consideration the Fatal Consequences which must attend such Offences, and Resolving to ap<g ref="char:EOLhyphen"/>ply a timely and effectual Remedy to prevent the same for the future, do hereby strictly Charge and Command all Officers and Soldiers whatso<g ref="char:EOLhyphen"/>ver, that from henceforth they forbear such Robberies, Plunderings, De<g ref="char:EOLhyphen"/>structions, Levies and Exactions, and that they demean themselves Soberly and Civilly in their Quarters and Marches: And We do hereby declare, that if any of them shall hereafter Commit any Violences, Robberies, Plunderings, or any of the aforesaid Mischiefs and Disorders upon any of Their Majesties Protestant or Popish Subjects under Their Obedience or
+<pb facs="tcp:186708:2"/> Protection, they shall be proceeded against with the utmost Severity. And We do hereby further Publish and Declare to all The<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Majesties Good and Loving Subjects, that if any Officer or Soldier shall henceforward so far forget or neglect their Duty as to offend in any of the aforementioned Parti<g ref="char:EOLhyphen"/>culars, upon complaint, and their making due proof thereof upon Oath before some Iustice of Peace in the County where any of the said Offences shall be Committed (which Oath the said Iustice of Peace is hereby required to Administer Gratis;) and forthwith to return a Certificate thereof unto Vs or the Chief Governour or Governours of this Kingdom (for the time being) upon due Consideration thereof We will cause such Offenders to make Re<g ref="char:EOLhyphen"/>stitution to the Parties; or if the Goods so taken cannot be Recovered so as to be Restored, We will cause Payment and Satisfaction to be given out of the Officers or Soldiers Pay, for what he or they shall so take, Plunder, Force away, Destroy, Exact, or Levy from any Person, and such Officer and Soldier shall likewise receive due Punishment according to the Nature of their Offence: And if the Commander in Chief in the Quarter where such Offences shall be Committed, shall not use his utmost Endeavours to bring such Offender to Condign Punishment, then the Satisfaction to the Parties grieved shall be made out of the Officers Pay Commanding in Chief as aforesaid: And forasmuch as Their Majesties have been Gracious<g ref="char:EOLhyphen"/>ly Pleased, to direct the Payment of Subsistance to Their Army in this Kingdom, from the First Day of <hi>January</hi> last: These are strictly to will and Command all Officers and Soldiers of Their said Army, from time to time to pay their Quarters (according to such Rates as are already Esta<g ref="char:EOLhyphen"/>blished) as they shall received their said Subsistance.</p>
+            <closer>
+               <dateline>Given at the <hi>Council-Chamber</hi> in <hi>Dublin,</hi>
+                  <date>the 6th Day of <hi>February,</hi> 1690.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Meath,</item>
+                     <item>Longford,</item>
+                     <item>Granard,</item>
+                     <item>Lisburn,</item>
+                     <item>Anth Midensis,</item>
+                     <item>Rob. Fitz-Gerald,</item>
+                     <item>Char. Meredith,</item>
+                     <item>Jn<seg rend="sup">o</seg> Hely,</item>
+                     <item>Ri: Pyne.</item>
+                  </list>
+               </signed>
+               <lb/> God Save the KING and QUEEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Took</hi> Printer to the <hi>King</hi> and <hi>Queen</hi> at their <hi>Majesties</hi> printing-house on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
